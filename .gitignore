@@ -1,0 +1,5 @@
+.idea
+/data/raw/globalterrorismdb_0221dist.csv
+/data/interm/gglobalterrordb.csv
+# Project exclude paths
+/data/
