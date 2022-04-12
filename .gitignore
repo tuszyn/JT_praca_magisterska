@@ -1,3 +1,4 @@
 .idea
 /data/raw/globalterrorismdb_0221dist.csv
 data/interm/globalterrordb.csv
+/visualizations/
