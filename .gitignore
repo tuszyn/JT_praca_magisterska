@@ -3,3 +3,6 @@
 data/interm/globalterrordb.csv
 /visualizations/
 /data/proccessed/globalterrordb_proccesed.csv
+/notebooks/experiments
+/mlruns
+/notebooks/mlruns
