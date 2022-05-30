@@ -8,3 +8,5 @@ data/interm/globalterrordb.csv
 /notebooks/mlruns
 /backup_data
 /notebooks/Raport.html
+/data/modeling/train.csv
+/data/modeling/test.csv
