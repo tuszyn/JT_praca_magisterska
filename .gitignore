@@ -6,3 +6,5 @@ data/interm/globalterrordb.csv
 /notebooks/experiments
 /mlruns
 /notebooks/mlruns
+/backup_data
+/notebooks/Raport.html
