@@ -1,7 +1,6 @@
 .idea
 /data/raw/globalterrorismdb_0221dist.csv
 data/interm/globalterrordb.csv
-/visualizations/
 /data/proccessed/globalterrordb_proccesed.csv
 /notebooks/experiments
 /mlruns
